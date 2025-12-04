@@ -1,0 +1,25 @@
+# Ignore raw Kaggle data
+data/raw/
+train.csv
+store.csv
+
+# Ignore temporary notebook files
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+env/
+venv/
+*.env
+
+# Ignore model binaries (too large for GitHub)
+*.pkl
+*.pickle
+
+# Ignore Google Drive pseudo-files
+*.gdoc
+*.gsheet
+*.gsform
