@@ -1,4 +1,9 @@
 🏬 Rossmann Sales Forecasting (XGBoost + SHAP Explainability)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange?logo=xgboost)
+![SHAP](https://img.shields.io/badge/Explainability-SHAP-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 
 This project builds an **end-to-end weekly sales forecasting model** for Rossmann retail stores using:
 
